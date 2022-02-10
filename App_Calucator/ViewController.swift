@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     var tt:Float = 0
     var kq:Float = 0
     var tam:Float = 0
+    //[rint 
 
     var arrLogs:[String] = []
     //Tạo storyboard
